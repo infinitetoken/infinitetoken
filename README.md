@@ -5,7 +5,7 @@ Feel free to contact us at [support@infinitetoken.com](mailto:support@infiniteto
 ## Apps
 
 - [Pixel Designer](https://apps.apple.com/app/id1485016367?mt=12)
-- [[Metronomia](https://apps.apple.com/us/app/metronomia-quick-metronome/id1492177661?ls=1&mt=12)
+- [Metronomia](https://apps.apple.com/us/app/metronomia-quick-metronome/id1492177661?ls=1&mt=12)
 - [Barcoder](https://apps.apple.com/us/app/barcoder/id994610360?mt=12)
 - [Slide Designer](https://apps.apple.com/us/app/slide-designer/id1485621427?ls=1)
 
