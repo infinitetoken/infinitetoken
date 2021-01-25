@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Infinite Token LLC
 
-You can use the [editor on GitHub](https://github.com/infinitetoken/infinitetoken/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Feel free to contact us at [support@infinitetoken.com](mailto:support@infinitetoken.com) if you need support with one of our applications and we will be glad to help!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Apps
 
-### Markdown
+- [Pixel Designer](https://apps.apple.com/app/id1485016367?mt=12)
+- [[Metronomia](https://apps.apple.com/us/app/metronomia-quick-metronome/id1492177661?ls=1&mt=12)
+- [Barcoder](https://apps.apple.com/us/app/barcoder/id994610360?mt=12)
+- [Slide Designer](https://apps.apple.com/us/app/slide-designer/id1485621427?ls=1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About Us
 
-```markdown
-Syntax highlighted code block
+Infinite Token is a software development company based in Lincoln, Nebraska in the heart of the “Silicon Prairie”.
 
-# Header 1
-## Header 2
-### Header 3
+We utilize the latest technology in desktop and mobile development to build apps that are developed with real businesses and users in mind.
 
-- Bulleted
-- List
+Infinite Token was founded by Aaron Wright and Chris Thompson in 2010. For many years we have been primarily focused on development of business-to-business point-of-sale software for The Gameroom, a buy-sell-trade business also located in Lincoln, Nebraska.
 
-1. Numbered
-2. List
+We are now branching out to mobile and desktop applications for macOS, iOS and the web!
 
-**Bold** and _Italic_ and `Code` text
+1713 O St Lincoln, NE 68508
 
-[Link](url) and ![Image](src)
-```
+## Our Team
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [A.C. Wright](https://github.com/acwright)
+- [Chris Thompson](https://github.com/nes4les)
+- [Jay Deaton](https://github.com/jayrdeaton)
 
-### Jekyll Themes
+## Policies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infinitetoken/infinitetoken/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Privacy Policy](/privacy)
