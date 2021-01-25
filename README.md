@@ -24,9 +24,5 @@ We are now branching out to mobile and desktop applications for macOS, iOS and t
 ## Our Team
 
 - [A.C. Wright](https://github.com/acwright)
-- [Chris Thompson](https://github.com/nes4les)
+- [Chris Thompson](https://github.com/nes4less)
 - [Jay Deaton](https://github.com/jayrdeaton)
-
-## Policies
-
-- [Privacy Policy](/privacy)
